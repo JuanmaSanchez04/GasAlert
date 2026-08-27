@@ -5,7 +5,7 @@ App Android que usa tu ubicación para mostrarte, al segundo, la gasolinera más
 ## Capturas
 
 <p align="center">
-  <img src="screenshots/pantalla_principal.png" width="250" alt="Pantalla principal">
+  <img src="screenshots/pantalla_principal.jpg" width="250" alt="Pantalla principal">
 </p>
 
 ## Qué hace
