@@ -1,0 +1,5 @@
+com.example.gasalert.test.app-updated_navigation_xml-0 C:\Users\Juanma\Desktop\GasAlert2\GasAlert2\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.example.gasalert.test.app-packageDebugAndroidTestResources-1 C:\Users\Juanma\Desktop\GasAlert2\GasAlert2\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\merged.dir
+com.example.gasalert.test.app-packageDebugAndroidTestResources-2 C:\Users\Juanma\Desktop\GasAlert2\GasAlert2\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\stripped.dir
+com.example.gasalert.test.app-debugAndroidTest-3 C:\Users\Juanma\Desktop\GasAlert2\GasAlert2\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+gradleHome-0 C:\Users\Juanma\.gradle

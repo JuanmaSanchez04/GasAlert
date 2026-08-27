@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Verde carreras extraído del coche de referencia -->
+    <color name="green_primary">#1B5E4A</color>
+    <color name="green_primary_dark">#0F3D30</color>
+    <color name="green_primary_light">#E3F0EA</color>
+    <color name="green_primary_variant">#2C7A61</color>
+
+    <!-- Rojo de las llantas, como acento puntual -->
+    <color name="accent_red">#A6272E</color>
+    <color name="accent_red_dark">#7C1B21</color>
+
+    <!-- Neutros para modo claro -->
+    <color name="background_light">#F5F8F7</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="text_primary_light">#1A1F1D</color>
+    <color name="text_secondary_light">#5C6B66</color>
+    <color name="divider_light">#E0E6E4</color>
+
+    <!-- Neutros para modo oscuro -->
+    <color name="background_dark">#10201A</color>
+    <color name="surface_dark">#17281F</color>
+    <color name="text_primary_dark">#ECF3F0</color>
+    <color name="text_secondary_dark">#9FB3AC</color>
+    <color name="divider_dark">#26362F</color>
+
+    <!-- Verde más claro para que tenga contraste sobre fondo oscuro -->
+    <color name="green_primary_on_dark">#4C9A7C</color>
+</resources>

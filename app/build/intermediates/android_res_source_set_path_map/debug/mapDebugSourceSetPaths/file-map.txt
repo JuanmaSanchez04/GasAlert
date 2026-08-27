@@ -1,0 +1,8 @@
+com.example.gasalert.app-pngs-0 C:\Users\Juanma\Desktop\GasAlert2\GasAlert2\app\build\generated\res\pngs\debug
+com.example.gasalert.app-updated_navigation_xml-1 C:\Users\Juanma\Desktop\GasAlert2\GasAlert2\app\build\generated\updated_navigation_xml\debug
+com.example.gasalert.app-packageDebugResources-2 C:\Users\Juanma\Desktop\GasAlert2\GasAlert2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.gasalert.app-packageDebugResources-3 C:\Users\Juanma\Desktop\GasAlert2\GasAlert2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.gasalert.app-debug-4 C:\Users\Juanma\Desktop\GasAlert2\GasAlert2\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.gasalert.app-debug-5 C:\Users\Juanma\Desktop\GasAlert2\GasAlert2\app\src\debug\res
+com.example.gasalert.app-main-6 C:\Users\Juanma\Desktop\GasAlert2\GasAlert2\app\src\main\res
+gradleHome-0 C:\Users\Juanma\.gradle
